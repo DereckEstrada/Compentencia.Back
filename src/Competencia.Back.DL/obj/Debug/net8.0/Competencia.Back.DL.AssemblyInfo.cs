@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Competencia.Back.DL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe5bd41d06c250fc78ba5f40be6b1583eb7749c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Competencia.Back.DL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Competencia.Back.DL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
