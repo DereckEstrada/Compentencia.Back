@@ -1,10 +1,17 @@
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\bin\Debug\net8.0\Competencia.Back.DAL.deps.json
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\bin\Debug\net8.0\Competencia.Back.DAL.dll
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\bin\Debug\net8.0\Competencia.Back.DAL.pdb
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\bin\Debug\net8.0\Competencia.Back.DTOs.dll
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\bin\Debug\net8.0\Competencia.Back.Entities.dll
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\bin\Debug\net8.0\Competencia.Back.DTOs.pdb
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\bin\Debug\net8.0\Competencia.Back.Entities.pdb
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\obj\Debug\net8.0\Competencia.Back.DAL.csproj.AssemblyReference.cache
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\obj\Debug\net8.0\Competencia.Back.DAL.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\obj\Debug\net8.0\Competencia.Back.DAL.AssemblyInfoInputs.cache
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\obj\Debug\net8.0\Competencia.Back.DAL.AssemblyInfo.cs
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\obj\Debug\net8.0\Competencia.Back.DAL.csproj.CoreCompileInputs.cache
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\obj\Debug\net8.0\Competencia.Back.DAL.sourcelink.json
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\obj\Debug\net8.0\Competen.FAA5AD4F.Up2Date
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\obj\Debug\net8.0\Competencia.Back.DAL.dll
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\obj\Debug\net8.0\refint\Competencia.Back.DAL.dll
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DAL\obj\Debug\net8.0\Competencia.Back.DAL.pdb

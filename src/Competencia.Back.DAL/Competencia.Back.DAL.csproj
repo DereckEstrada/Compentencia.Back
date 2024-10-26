@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Competencia.Back.DTOs\Competencia.Back.DTOs.csproj" />
+    <ProjectReference Include="..\Competencia.Back.Entities\Competencia.Back.Entities.csproj" />
+  </ItemGroup>
+
 </Project>

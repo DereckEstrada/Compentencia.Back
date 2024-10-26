@@ -14,6 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Competencia.Back.DAL\Competencia.Back.DAL.csproj" />
+    <ProjectReference Include="..\Competencia.Back.DL\Competencia.Back.DL.csproj" />
     <ProjectReference Include="..\Competencia.Back.Entities\Competencia.Back.Entities.csproj" />
   </ItemGroup>
 

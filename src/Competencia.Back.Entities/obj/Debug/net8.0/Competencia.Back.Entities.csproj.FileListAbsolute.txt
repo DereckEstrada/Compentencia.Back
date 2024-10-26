@@ -7,6 +7,7 @@ C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Comp
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\Competencia.Back.Entities.AssemblyInfoInputs.cache
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\Competencia.Back.Entities.AssemblyInfo.cs
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\Competencia.Back.Entities.csproj.CoreCompileInputs.cache
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\Competencia.Back.Entities.sourcelink.json
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\Competencia.Back.Entities.dll
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\refint\Competencia.Back.Entities.dll
 C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\Competencia.Back.Entities.pdb

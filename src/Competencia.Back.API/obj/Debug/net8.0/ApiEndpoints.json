@@ -1,0 +1,270 @@
+[
+  {
+    "ContainingType": "Competencia.Back.API.Controllers.OficinaController",
+    "Method": "GetOficina",
+    "RelativePath": "api/Oficina/GetOficina",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Competencia.Back.Entities.Utilitarios.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Competencia.Back.API.Controllers.OficinaController",
+    "Method": "PostOficina",
+    "RelativePath": "api/Oficina/PostOficina",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "oficina",
+        "Type": "Competencia.Back.Entities.Entities.Oficina",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Competencia.Back.Entities.Utilitarios.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Competencia.Back.API.Controllers.OficinaController",
+    "Method": "UpdateOficina",
+    "RelativePath": "api/Oficina/UpdateOficina",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "oficina",
+        "Type": "Competencia.Back.Entities.Entities.Oficina",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Competencia.Back.Entities.Utilitarios.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Competencia.Back.API.Controllers.PersonaController",
+    "Method": "GetPersona",
+    "RelativePath": "api/Persona/GetPersona",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Competencia.Back.Entities.Utilitarios.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Competencia.Back.API.Controllers.PersonaController",
+    "Method": "PostPersona",
+    "RelativePath": "api/Persona/PostPersona",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "persona",
+        "Type": "Competencia.Back.Entities.Entities.Persona",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Competencia.Back.Entities.Utilitarios.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Competencia.Back.API.Controllers.PersonaController",
+    "Method": "UpdatePersona",
+    "RelativePath": "api/Persona/UpdatePersona",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "persona",
+        "Type": "Competencia.Back.Entities.Entities.Persona",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Competencia.Back.Entities.Utilitarios.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Competencia.Back.API.Controllers.ReservaController",
+    "Method": "DeleteReserva",
+    "RelativePath": "api/Reserva/DeleteReserva",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reserva",
+        "Type": "Competencia.Back.Entities.Entities.ReservaPersona",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Competencia.Back.Entities.Utilitarios.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Competencia.Back.API.Controllers.ReservaController",
+    "Method": "GetReserva",
+    "RelativePath": "api/Reserva/GetReserva",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "Competencia.Back.Entities.Utilitarios.QueryOptions",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Competencia.Back.Entities.Utilitarios.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Competencia.Back.API.Controllers.ReservaController",
+    "Method": "PostReserva",
+    "RelativePath": "api/Reserva/PostReserva",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reserva",
+        "Type": "Competencia.Back.Entities.Entities.ReservaPersona",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Competencia.Back.Entities.Utilitarios.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Competencia.Back.API.Controllers.ReservaController",
+    "Method": "UpdateReserva",
+    "RelativePath": "api/Reserva/UpdateReserva",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reserva",
+        "Type": "Competencia.Back.Entities.Entities.ReservaPersona",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Competencia.Back.Entities.Utilitarios.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Competencia.Back.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Competencia.Back.API.WeatherForecast, Competencia.Back.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

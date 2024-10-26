@@ -3,48 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A930E929-83E6-49DE-966E-A0EC770B0401}|src\\Competencia.Back.DL\\Competencia.Back.DL.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.dl\\interfaces\\ipersonaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A930E929-83E6-49DE-966E-A0EC770B0401}|src\\Competencia.Back.DL\\Competencia.Back.DL.csproj|solutionrelative:src\\competencia.back.dl\\interfaces\\ipersonaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{529FDEC5-CF3D-4AD5-9A84-321A705BBDD4}|src\\Competencia.Back.DTOs\\Competencia.Back.DTOs.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.dtos\\reservadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529FDEC5-CF3D-4AD5-9A84-321A705BBDD4}|src\\Competencia.Back.DTOs\\Competencia.Back.DTOs.csproj|solutionrelative:src\\competencia.back.dtos\\reservadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A930E929-83E6-49DE-966E-A0EC770B0401}|src\\Competencia.Back.DL\\Competencia.Back.DL.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.dl\\services\\personaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A930E929-83E6-49DE-966E-A0EC770B0401}|src\\Competencia.Back.DL\\Competencia.Back.DL.csproj|solutionrelative:src\\competencia.back.dl\\services\\personaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D87D3F8-8F9A-47C4-9ED5-C1A950EBC253}|src\\Competencia.Back.DAL\\Competencia.Back.DAL.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.dal\\repositorio\\reservarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D87D3F8-8F9A-47C4-9ED5-C1A950EBC253}|src\\Competencia.Back.DAL\\Competencia.Back.DAL.csproj|solutionrelative:src\\competencia.back.dal\\repositorio\\reservarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D87D3F8-8F9A-47C4-9ED5-C1A950EBC253}|src\\Competencia.Back.DAL\\Competencia.Back.DAL.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.dal\\interfaces\\ipersonarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D87D3F8-8F9A-47C4-9ED5-C1A950EBC253}|src\\Competencia.Back.DAL\\Competencia.Back.DAL.csproj|solutionrelative:src\\competencia.back.dal\\interfaces\\ipersonarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5044703B-F059-4794-9140-DB4A8097666E}|src\\Competencia.Back.Entities\\Competencia.Back.Entities.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.entities\\entities\\reservapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5044703B-F059-4794-9140-DB4A8097666E}|src\\Competencia.Back.Entities\\Competencia.Back.Entities.csproj|solutionrelative:src\\competencia.back.entities\\entities\\reservapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D87D3F8-8F9A-47C4-9ED5-C1A950EBC253}|src\\Competencia.Back.DAL\\Competencia.Back.DAL.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.dal\\repositorio\\personarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D87D3F8-8F9A-47C4-9ED5-C1A950EBC253}|src\\Competencia.Back.DAL\\Competencia.Back.DAL.csproj|solutionrelative:src\\competencia.back.dal\\repositorio\\personarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5044703B-F059-4794-9140-DB4A8097666E}|src\\Competencia.Back.Entities\\Competencia.Back.Entities.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.entities\\utilitarios\\queryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5044703B-F059-4794-9140-DB4A8097666E}|src\\Competencia.Back.Entities\\Competencia.Back.Entities.csproj|solutionrelative:src\\competencia.back.entities\\utilitarios\\queryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D87D3F8-8F9A-47C4-9ED5-C1A950EBC253}|src\\Competencia.Back.DAL\\Competencia.Back.DAL.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.dal\\competencia.back.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4D87D3F8-8F9A-47C4-9ED5-C1A950EBC253}|src\\Competencia.Back.DAL\\Competencia.Back.DAL.csproj|solutionrelative:src\\competencia.back.dal\\competencia.back.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5044703B-F059-4794-9140-DB4A8097666E}|src\\Competencia.Back.Entities\\Competencia.Back.Entities.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.entities\\utilitarios\\dynamicvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5044703B-F059-4794-9140-DB4A8097666E}|src\\Competencia.Back.Entities\\Competencia.Back.Entities.csproj|solutionrelative:src\\competencia.back.entities\\utilitarios\\dynamicvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.api\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|solutionrelative:src\\competencia.back.api\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|solutionrelative:src\\competencia.back.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|solutionrelative:src\\competencia.back.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A930E929-83E6-49DE-966E-A0EC770B0401}|src\\Competencia.Back.DL\\Competencia.Back.DL.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.dl\\services\\reservaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A930E929-83E6-49DE-966E-A0EC770B0401}|src\\Competencia.Back.DL\\Competencia.Back.DL.csproj|solutionrelative:src\\competencia.back.dl\\services\\reservaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|solutionrelative:src\\competencia.back.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.api\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|solutionrelative:src\\competencia.back.api\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.api\\competencia.back.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|solutionrelative:src\\competencia.back.api\\competencia.back.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.api\\controllers\\oficinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|solutionrelative:src\\competencia.back.api\\controllers\\oficinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5044703B-F059-4794-9140-DB4A8097666E}|src\\Competencia.Back.Entities\\Competencia.Back.Entities.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.entities\\entities\\competenciadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5044703B-F059-4794-9140-DB4A8097666E}|src\\Competencia.Back.Entities\\Competencia.Back.Entities.csproj|solutionrelative:src\\competencia.back.entities\\entities\\competenciadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A930E929-83E6-49DE-966E-A0EC770B0401}|src\\Competencia.Back.DL\\Competencia.Back.DL.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.dl\\interfaces\\ireservaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A930E929-83E6-49DE-966E-A0EC770B0401}|src\\Competencia.Back.DL\\Competencia.Back.DL.csproj|solutionrelative:src\\competencia.back.dl\\interfaces\\ireservaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A930E929-83E6-49DE-966E-A0EC770B0401}|src\\Competencia.Back.DL\\Competencia.Back.DL.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.dl\\services\\personaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A930E929-83E6-49DE-966E-A0EC770B0401}|src\\Competencia.Back.DL\\Competencia.Back.DL.csproj|solutionrelative:src\\competencia.back.dl\\services\\personaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A930E929-83E6-49DE-966E-A0EC770B0401}|src\\Competencia.Back.DL\\Competencia.Back.DL.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.dl\\interfaces\\ipersonaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A930E929-83E6-49DE-966E-A0EC770B0401}|src\\Competencia.Back.DL\\Competencia.Back.DL.csproj|solutionrelative:src\\competencia.back.dl\\interfaces\\ipersonaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A930E929-83E6-49DE-966E-A0EC770B0401}|src\\Competencia.Back.DL\\Competencia.Back.DL.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.dl\\services\\oficinaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A930E929-83E6-49DE-966E-A0EC770B0401}|src\\Competencia.Back.DL\\Competencia.Back.DL.csproj|solutionrelative:src\\competencia.back.dl\\services\\oficinaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,140 +70,172 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonaServices.cs",
-              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Services\\PersonaServices.cs",
-              "RelativeDocumentMoniker": "src\\Competencia.Back.DL\\Services\\PersonaServices.cs",
-              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Services\\PersonaServices.cs",
-              "RelativeToolTip": "src\\Competencia.Back.DL\\Services\\PersonaServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ReservaPersona.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.Entities\\Entities\\ReservaPersona.cs",
+              "RelativeDocumentMoniker": "src\\Competencia.Back.Entities\\Entities\\ReservaPersona.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.Entities\\Entities\\ReservaPersona.cs",
+              "RelativeToolTip": "src\\Competencia.Back.Entities\\Entities\\ReservaPersona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:13:04.399Z",
+              "WhenOpened": "2024-10-26T16:33:04.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IPersonaServices.cs",
-              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Interfaces\\IPersonaServices.cs",
-              "RelativeDocumentMoniker": "src\\Competencia.Back.DL\\Interfaces\\IPersonaServices.cs",
-              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Interfaces\\IPersonaServices.cs",
-              "RelativeToolTip": "src\\Competencia.Back.DL\\Interfaces\\IPersonaServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Title": "ReservaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DTOs\\ReservaDTO.cs",
+              "RelativeDocumentMoniker": "src\\Competencia.Back.DTOs\\ReservaDTO.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DTOs\\ReservaDTO.cs",
+              "RelativeToolTip": "src\\Competencia.Back.DTOs\\ReservaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:12:53.236Z",
+              "WhenOpened": "2024-10-26T16:32:51.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PersonaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DAL\\Repositorio\\PersonaRepositorio.cs",
-              "RelativeDocumentMoniker": "src\\Competencia.Back.DAL\\Repositorio\\PersonaRepositorio.cs",
-              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DAL\\Repositorio\\PersonaRepositorio.cs",
-              "RelativeToolTip": "src\\Competencia.Back.DAL\\Repositorio\\PersonaRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ReservaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DAL\\Repositorio\\ReservaRepositorio.cs",
+              "RelativeDocumentMoniker": "src\\Competencia.Back.DAL\\Repositorio\\ReservaRepositorio.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DAL\\Repositorio\\ReservaRepositorio.cs",
+              "RelativeToolTip": "src\\Competencia.Back.DAL\\Repositorio\\ReservaRepositorio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACYAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:12:41.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPersonaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DAL\\Interfaces\\IPersonaRepositorio.cs",
-              "RelativeDocumentMoniker": "src\\Competencia.Back.DAL\\Interfaces\\IPersonaRepositorio.cs",
-              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DAL\\Interfaces\\IPersonaRepositorio.cs",
-              "RelativeToolTip": "src\\Competencia.Back.DAL\\Interfaces\\IPersonaRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:12:28.217Z",
+              "WhenOpened": "2024-10-26T16:10:17.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DynamicValidator.cs",
-              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.Entities\\Utilitarios\\DynamicValidator.cs",
-              "RelativeDocumentMoniker": "src\\Competencia.Back.Entities\\Utilitarios\\DynamicValidator.cs",
-              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.Entities\\Utilitarios\\DynamicValidator.cs",
-              "RelativeToolTip": "src\\Competencia.Back.Entities\\Utilitarios\\DynamicValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:11:28.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Competencia.Back.DAL.csproj",
-              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DAL\\Competencia.Back.DAL.csproj",
-              "RelativeDocumentMoniker": "src\\Competencia.Back.DAL\\Competencia.Back.DAL.csproj",
-              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DAL\\Competencia.Back.DAL.csproj",
-              "RelativeToolTip": "src\\Competencia.Back.DAL\\Competencia.Back.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-26T15:10:22.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Competencia.Back.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\appsettings.json",
-              "RelativeToolTip": "src\\Competencia.Back.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-26T15:06:05.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CompetenciaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.Entities\\Entities\\CompetenciaDbContext.cs",
-              "RelativeDocumentMoniker": "src\\Competencia.Back.Entities\\Entities\\CompetenciaDbContext.cs",
-              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.Entities\\Entities\\CompetenciaDbContext.cs",
-              "RelativeToolTip": "src\\Competencia.Back.Entities\\Entities\\CompetenciaDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:05:13.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "src\\Competencia.Back.API\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\appsettings.Development.json",
-              "RelativeToolTip": "src\\Competencia.Back.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-26T15:02:57.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\Program.cs",
               "RelativeDocumentMoniker": "src\\Competencia.Back.API\\Program.cs",
               "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\Program.cs",
               "RelativeToolTip": "src\\Competencia.Back.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:01:15.252Z"
+              "WhenOpened": "2024-10-26T15:58:16.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "src\\Competencia.Back.API\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "src\\Competencia.Back.API\\Controllers\\ReservaController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:55:14.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OficinaController.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\Controllers\\OficinaController.cs",
+              "RelativeDocumentMoniker": "src\\Competencia.Back.API\\Controllers\\OficinaController.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\Controllers\\OficinaController.cs",
+              "RelativeToolTip": "src\\Competencia.Back.API\\Controllers\\OficinaController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:52:30.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPersonaServices.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Interfaces\\IPersonaServices.cs",
+              "RelativeDocumentMoniker": "src\\Competencia.Back.DL\\Interfaces\\IPersonaServices.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Interfaces\\IPersonaServices.cs",
+              "RelativeToolTip": "src\\Competencia.Back.DL\\Interfaces\\IPersonaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:50:33.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "src\\Competencia.Back.API\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "src\\Competencia.Back.API\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:49:32.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueryOptions.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.Entities\\Utilitarios\\QueryOptions.cs",
+              "RelativeDocumentMoniker": "src\\Competencia.Back.Entities\\Utilitarios\\QueryOptions.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.Entities\\Utilitarios\\QueryOptions.cs",
+              "RelativeToolTip": "src\\Competencia.Back.Entities\\Utilitarios\\QueryOptions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:47:16.734Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Competencia.Back.API.http",
-              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\Competencia.Back.API.http",
-              "RelativeDocumentMoniker": "src\\Competencia.Back.API\\Competencia.Back.API.http",
-              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\Competencia.Back.API.http",
-              "RelativeToolTip": "src\\Competencia.Back.API\\Competencia.Back.API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-26T15:01:12.252Z"
+              "Title": "IReservaServices.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Interfaces\\IReservaServices.cs",
+              "RelativeDocumentMoniker": "src\\Competencia.Back.DL\\Interfaces\\IReservaServices.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Interfaces\\IReservaServices.cs",
+              "RelativeToolTip": "src\\Competencia.Back.DL\\Interfaces\\IReservaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:43:10.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservaServices.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Services\\ReservaServices.cs",
+              "RelativeDocumentMoniker": "src\\Competencia.Back.DL\\Services\\ReservaServices.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Services\\ReservaServices.cs",
+              "RelativeToolTip": "src\\Competencia.Back.DL\\Services\\ReservaServices.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwDcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:42:21.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonaServices.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Services\\PersonaServices.cs",
+              "RelativeDocumentMoniker": "src\\Competencia.Back.DL\\Services\\PersonaServices.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Services\\PersonaServices.cs",
+              "RelativeToolTip": "src\\Competencia.Back.DL\\Services\\PersonaServices.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:40:39.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OficinaServices.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Services\\OficinaServices.cs",
+              "RelativeDocumentMoniker": "src\\Competencia.Back.DL\\Services\\OficinaServices.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Services\\OficinaServices.cs",
+              "RelativeToolTip": "src\\Competencia.Back.DL\\Services\\OficinaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:40:39.196Z",
+              "EditorCaption": ""
             }
           ]
         },

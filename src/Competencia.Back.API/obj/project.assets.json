@@ -1484,6 +1484,45 @@
           }
         }
       },
+      "Competencia.Back.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Competencia.Back.DTOs": "1.0.0",
+          "Competencia.Back.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Competencia.Back.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Competencia.Back.DAL.dll": {}
+        }
+      },
+      "Competencia.Back.DL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Competencia.Back.DAL": "1.0.0",
+          "Competencia.Back.DTOs": "1.0.0",
+          "Competencia.Back.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Competencia.Back.DL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Competencia.Back.DL.dll": {}
+        }
+      },
+      "Competencia.Back.DTOs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Competencia.Back.DTOs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Competencia.Back.DTOs.dll": {}
+        }
+      },
       "Competencia.Back.Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -4007,6 +4046,21 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Competencia.Back.DAL/1.0.0": {
+      "type": "project",
+      "path": "../Competencia.Back.DAL/Competencia.Back.DAL.csproj",
+      "msbuildProject": "../Competencia.Back.DAL/Competencia.Back.DAL.csproj"
+    },
+    "Competencia.Back.DL/1.0.0": {
+      "type": "project",
+      "path": "../Competencia.Back.DL/Competencia.Back.DL.csproj",
+      "msbuildProject": "../Competencia.Back.DL/Competencia.Back.DL.csproj"
+    },
+    "Competencia.Back.DTOs/1.0.0": {
+      "type": "project",
+      "path": "../Competencia.Back.DTOs/Competencia.Back.DTOs.csproj",
+      "msbuildProject": "../Competencia.Back.DTOs/Competencia.Back.DTOs.csproj"
+    },
     "Competencia.Back.Entities/1.0.0": {
       "type": "project",
       "path": "../Competencia.Back.Entities/Competencia.Back.Entities.csproj",
@@ -4015,6 +4069,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Competencia.Back.DAL >= 1.0.0",
+      "Competencia.Back.DL >= 1.0.0",
       "Competencia.Back.Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.10"
     ]
@@ -4047,6 +4103,12 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DAL\\Competencia.Back.DAL.csproj": {
+              "projectPath": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DAL\\Competencia.Back.DAL.csproj"
+            },
+            "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Competencia.Back.DL.csproj": {
+              "projectPath": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DL\\Competencia.Back.DL.csproj"
+            },
             "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.Entities\\Competencia.Back.Entities.csproj": {
               "projectPath": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.Entities\\Competencia.Back.Entities.csproj"
             }
