@@ -1,0 +1,11 @@
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DL\bin\Debug\net8.0\Competencia.Back.DL.deps.json
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DL\bin\Debug\net8.0\Competencia.Back.DL.dll
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DL\bin\Debug\net8.0\Competencia.Back.DL.pdb
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DL\obj\Debug\net8.0\Competencia.Back.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DL\obj\Debug\net8.0\Competencia.Back.DL.AssemblyInfoInputs.cache
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DL\obj\Debug\net8.0\Competencia.Back.DL.AssemblyInfo.cs
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DL\obj\Debug\net8.0\Competencia.Back.DL.csproj.CoreCompileInputs.cache
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DL\obj\Debug\net8.0\Competencia.Back.DL.dll
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DL\obj\Debug\net8.0\refint\Competencia.Back.DL.dll
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DL\obj\Debug\net8.0\Competencia.Back.DL.pdb
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.DL\obj\Debug\net8.0\ref\Competencia.Back.DL.dll

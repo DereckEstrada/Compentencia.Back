@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|solutionrelative:src\\competencia.back.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|solutionrelative:src\\competencia.back.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|c:\\users\\derec\\onedrive\\documents\\bootcamp\\competencia\\competencia.back\\src\\competencia.back.api\\competencia.back.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E6130AB1-3D18-4EEE-8ED3-611E3E53F475}|src\\Competencia.Back.API\\Competencia.Back.API.csproj|solutionrelative:src\\competencia.back.api\\competencia.back.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Competencia.Back.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Competencia.Back.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T15:02:57.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Competencia.Back.API\\Program.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\Program.cs",
+              "RelativeToolTip": "src\\Competencia.Back.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:01:15.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Competencia.Back.API.http",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\Competencia.Back.API.http",
+              "RelativeDocumentMoniker": "src\\Competencia.Back.API\\Competencia.Back.API.http",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.API\\Competencia.Back.API.http",
+              "RelativeToolTip": "src\\Competencia.Back.API\\Competencia.Back.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-26T15:01:12.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

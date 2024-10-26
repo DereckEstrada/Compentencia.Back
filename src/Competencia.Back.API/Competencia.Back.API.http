@@ -1,0 +1,6 @@
+@Competencia.Back.API_HostAddress = http://localhost:5119
+
+GET {{Competencia.Back.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

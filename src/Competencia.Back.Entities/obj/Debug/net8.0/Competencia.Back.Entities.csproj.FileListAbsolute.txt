@@ -1,0 +1,14 @@
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\bin\Debug\net8.0\Competencia.Back.Entities.deps.json
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\bin\Debug\net8.0\Competencia.Back.Entities.runtimeconfig.json
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\bin\Debug\net8.0\Competencia.Back.Entities.dll
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\bin\Debug\net8.0\Competencia.Back.Entities.pdb
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\Competencia.Back.Entities.csproj.AssemblyReference.cache
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\Competencia.Back.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\Competencia.Back.Entities.AssemblyInfoInputs.cache
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\Competencia.Back.Entities.AssemblyInfo.cs
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\Competencia.Back.Entities.csproj.CoreCompileInputs.cache
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\Competencia.Back.Entities.dll
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\refint\Competencia.Back.Entities.dll
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\Competencia.Back.Entities.pdb
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\Competencia.Back.Entities.genruntimeconfig.cache
+C:\Users\derec\OneDrive\Documents\Bootcamp\Competencia\Competencia.Back\src\Competencia.Back.Entities\obj\Debug\net8.0\ref\Competencia.Back.Entities.dll

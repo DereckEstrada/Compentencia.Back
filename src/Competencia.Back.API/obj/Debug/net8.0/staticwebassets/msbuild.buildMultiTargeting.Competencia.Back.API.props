@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Competencia.Back.API.props" />
+</Project>
