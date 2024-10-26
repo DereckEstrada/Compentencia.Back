@@ -78,8 +78,7 @@
               "RelativeToolTip": "src\\Competencia.Back.Entities\\Entities\\ReservaPersona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T16:33:04.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T16:33:04.191Z"
             },
             {
               "$type": "Document",
@@ -100,12 +99,11 @@
               "Title": "ReservaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DAL\\Repositorio\\ReservaRepositorio.cs",
               "RelativeDocumentMoniker": "src\\Competencia.Back.DAL\\Repositorio\\ReservaRepositorio.cs",
-              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DAL\\Repositorio\\ReservaRepositorio.cs*",
-              "RelativeToolTip": "src\\Competencia.Back.DAL\\Repositorio\\ReservaRepositorio.cs*",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Bootcamp\\Competencia\\Competencia.Back\\src\\Competencia.Back.DAL\\Repositorio\\ReservaRepositorio.cs",
+              "RelativeToolTip": "src\\Competencia.Back.DAL\\Repositorio\\ReservaRepositorio.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAACYAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T16:10:17.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T16:10:17.87Z"
             },
             {
               "$type": "Document",
@@ -117,8 +115,7 @@
               "RelativeToolTip": "src\\Competencia.Back.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:58:16.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T15:58:16.486Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "RelativeToolTip": "src\\Competencia.Back.API\\Controllers\\ReservaController.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAkwEcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:55:14.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T15:55:14.295Z"
             },
             {
               "$type": "Document",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "src\\Competencia.Back.API\\Controllers\\OficinaController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:52:30.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T15:52:30.36Z"
             },
             {
               "$type": "Document",
@@ -156,8 +151,7 @@
               "RelativeToolTip": "src\\Competencia.Back.DL\\Interfaces\\IPersonaServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:50:33.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T15:50:33.322Z"
             },
             {
               "$type": "Document",
@@ -169,8 +163,7 @@
               "RelativeToolTip": "src\\Competencia.Back.API\\Controllers\\PersonaController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwCcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:49:32.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T15:49:32.75Z"
             },
             {
               "$type": "Document",
@@ -182,8 +175,7 @@
               "RelativeToolTip": "src\\Competencia.Back.Entities\\Utilitarios\\QueryOptions.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:47:16.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T15:47:16.734Z"
             },
             {
               "$type": "Document",
@@ -195,8 +187,7 @@
               "RelativeToolTip": "src\\Competencia.Back.DL\\Interfaces\\IReservaServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:43:10.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T15:43:10.424Z"
             },
             {
               "$type": "Document",
@@ -208,8 +199,7 @@
               "RelativeToolTip": "src\\Competencia.Back.DL\\Services\\ReservaServices.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAwDcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:42:21.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T15:42:21.398Z"
             },
             {
               "$type": "Document",
@@ -221,8 +211,7 @@
               "RelativeToolTip": "src\\Competencia.Back.DL\\Services\\PersonaServices.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:40:39.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T15:40:39.965Z"
             },
             {
               "$type": "Document",
@@ -234,8 +223,7 @@
               "RelativeToolTip": "src\\Competencia.Back.DL\\Services\\OficinaServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:40:39.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T15:40:39.196Z"
             }
           ]
         },
